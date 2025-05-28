@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return '''
         <h1>Welcome to My Flask Website!</h1>
-        <p>This is the home page. Deployed using Docker and ECS.</p>
+        <p>This is the home page. Deployed using Docker and ECS by Github Actions.</p>
         <a href="/about">Go to About Page</a>
     '''
 
