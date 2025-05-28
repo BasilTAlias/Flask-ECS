@@ -135,7 +135,7 @@ Once deployed, the application can be accessed via the Public IP address assigne
 I also wrote a Medium article that walks through this project step-by-step:
 
 > **Title:** From Code to Cloud: Deploying a Flask App to AWS ECS with GitHub Actions
-> **Link:** [https://your-medium-link.com]([https://your-medium-link.com](https://medium.com/@basiltaliaz/from-code-to-cloud-deploying-a-flask-app-on-aws-ecs-with-fargate-and-github-actions-ci-cd-9ff32bd12169))
+> **Link:** https://medium.com/@basiltaliaz/from-code-to-cloud-deploying-a-flask-app-on-aws-ecs-with-fargate-and-github-actions-ci-cd-9ff32bd12169
 
 The article explains the reasoning behind each step, best practices, and real-world DevOps benefits of infrastructure-as-code + CI/CD pipelines.
 
