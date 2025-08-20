@@ -147,6 +147,12 @@ This project is built to showcase modern DevOps workflows and can be a foundatio
 
 ---
 
+## 📝 Medium Article
+
+Link: https://medium.com/@basiltaliaz/from-code-to-cloud-deploying-a-flask-app-on-aws-ecs-with-fargate-and-github-actions-ci-cd-9ff32bd12169
+
+---
+
 ## 📫 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/basil-t-alias) or explore more of my projects on [GitHub](https://github.com/BasilTAlias).
